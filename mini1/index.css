@@ -1,0 +1,56 @@
+.container{
+    background-color:black;
+}
+
+.bulb-image{
+    width:150px;
+}
+
+.cat-image{
+    width:300px;
+}
+
+.switch-board{
+    background-color:grey;
+    padding-left:18px;
+    padding-right:18px;
+    padding-top:32px;
+    padding-bottom:32px;
+    margin:12px;
+    border-radius:10px;
+    width:298px;
+    height:180px;
+}
+
+.switch{
+  color:white;
+  font-weight:bold;
+  padding:10px;
+  font-family:"Bree serif";
+  font-size:28px;
+  margin-bottom:20px;
+}
+
+.offSwitch{
+    background-color:red;
+    height:44px;
+    width:98px;
+    border-radius:10px;
+    color:white;
+    font-size:18px;
+    font-family:"Bree serif";
+}
+
+.onSwitch{
+    background-color:#cbd2d9;;
+    height:44px;
+    width:98px;
+    border-radius:10px;
+    color:white;
+    font-size:18px;
+    font-family:"Bree serif";
+    margin-left:16px;
+}                       
+
+
+
