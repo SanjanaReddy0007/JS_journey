@@ -1,0 +1,27 @@
+.container{
+    background-color:aliceblue;
+    height:100vh;
+}
+
+.heading{
+    font-size:50px;
+    font-weight:700;
+    color:black;
+}
+
+.description{
+    color:black;
+  font-weight:900;
+  font-size:70px;
+}
+
+.button{
+    background-color:#f1f5f8;
+    margin:8px;
+    padding:10px;
+    border-radius:8px;
+    border-color:black;
+    border-width:2px;
+}
+
+
