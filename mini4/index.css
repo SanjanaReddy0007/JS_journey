@@ -1,0 +1,53 @@
+#container{
+   min-height:100vh;
+   padding:30px;
+   margin:20px;
+   font-family:'Open Sans', Sans-Serif;
+   text-align: center;
+}
+
+.heading{
+    color:black;
+    font-size: 24px;
+}
+
+
+.ButtonContainer {
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+.button{
+    width: 94px;
+    height:80px;
+    border-radius: 10px;
+    color:#222222;
+    border-width: 3px;
+    padding:20px;
+    margin:10px;
+    border-color: black;
+}
+
+.bg{
+    font-size: 18px;
+    margin-top: 20px;
+    background-color: black;
+    padding: 7px;
+    border-radius: 7px;
+    color:white;
+}
+
+.para{
+    font-size: 18px;
+    padding:7px;
+    color:black;
+    padding: 7px;
+    border-radius: 7px;
+}
+
+
+#speccific{
+    color:blue;
+    font-weight: bold;
+}
+
