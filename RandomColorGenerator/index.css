@@ -1,0 +1,23 @@
+.heading{
+    color:black;
+    font-size:24px;
+    font-family: "Roboto";
+}
+
+.button{
+    background-color: blue;
+    font-size: 20px;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+    border-width: 0;
+    color:white;
+    margin: 15px;
+}
+
+
+.bg-container{
+    height: 100vh;
+}
+
+
