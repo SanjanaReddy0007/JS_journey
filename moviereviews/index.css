@@ -1,0 +1,79 @@
+
+
+#reviewPage{
+    height:100vh;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+    max-width: 600px;
+}
+
+.heading{
+    color:black;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    margin:20px;
+    margin-right: auto;
+}
+
+.label-input{
+    color:#7b8794;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    margin-right: auto;
+    text-align: left;
+}
+
+.textarea{
+     color:#7b8794;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    margin-right: auto;
+}
+
+input[type="text"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #cdb2d9;
+    border-radius: 8px;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+#addBtn{
+  color:wheat;
+  cursor: pointer;
+  border-radius: 8px;
+  font-size: 13px;
+  border: none;
+  margin-top: 10px;
+  gap:4px;
+}
+
+#reviewContainer{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.movie-title{
+    color:black;
+    font-family: "Roboto";
+    font-weight: 700;
+    margin-bottom: 7px;
+    font-size: 16px;
+}
+
+.description { 
+    color:black;
+    font-family: "Roboto";
+    font-weight: 700;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+
