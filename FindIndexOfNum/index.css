@@ -1,0 +1,47 @@
+.heading{
+    color:black;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.default{
+    color: #2d3a35;
+    font-family: "Bree Serif";
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.inputt{
+    height: 40px;
+    width: 100%;
+    padding: 10px;
+    border-width: 1px;
+    border-color: #cdb2d9;
+    border-radius: 4px;
+}
+
+.index-heading{
+     font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.index-container{
+    color: #795e26;
+    background-color: #f3f3f3;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.span-class{
+     color:black;
+    font-family: "Bree Serif";
+    font-size: 36px;
+    font-weight: 800;
+}
+
+.buttonn{
+    margin-left: 10px;
+}
+
