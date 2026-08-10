@@ -1,0 +1,51 @@
+.bg-container{
+    background:linear-gradient(#189ffd, #29f39c);
+    height: 100vh;
+}
+
+.peace-container{
+    background-color: white;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.peace-heading{
+    color:black;font-size: 26px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.peace-para{
+    color:black;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: "roboto";
+}
+
+.heading{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.button-list-continer{
+    margin-top: 12px;
+    list-style-type:none;
+}
+
+.button{
+    background-color: #05a8f2;
+    color:white;
+    font-size: 10px;
+    border-width:0;
+    border-radius: 10px;
+    width: 75px;
+    height: 75px;
+    font-family: "Roboto";
+    font-weight: 500;
+   margin: 10px;
+}
+
+
