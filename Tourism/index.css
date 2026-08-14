@@ -1,0 +1,107 @@
+.bg-container{
+  background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/ocean.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+
+.heading{
+    color: black;
+    font-size: 24px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.description{
+    color:black;
+    font-size: 12px;
+    font-family: "Roboto";
+}
+
+.button{
+   background-color: aqua;
+   color:white;
+   font-size: 12px;
+   font-weight: 500;
+   margin-top: 6px;
+   border-width: 0px;
+   border-radius: 8px;
+   width: 140px;
+   height: 45px;
+
+}
+
+.tourim-card{
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.favorite-bg{
+  background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/towerbg.png");
+  background-size: cover;
+  height: 100vh;
+  padding: 24px;
+}
+
+.fav-card{
+    background-color: white;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 15px;
+}
+
+.favourite-place-card-image{
+width: 80px;
+  height: 100px;}
+
+.fav-head{
+  color: #0f0e46;
+  font-family: "Roboto";
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.fav-para{
+    color: #6c6b70;
+  font-family: "Roboto";
+  font-size: 13px;
+}
+
+.detailed-view-card-text-container {
+  padding: 16px;
+}
+
+.detailed-view-card-heading {
+  color: #0f0e46;
+  font-family: "Roboto";
+  font-size: 23px;
+  font-weight: bold;
+}
+.detailed-view-card-description {
+  color: #6c6b70;
+  font-family: "Roboto";
+  font-size: 13px;
+}
+
+.detailed-view-bg-container {
+  background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/seabg.png");
+  height: 150vh;
+  background-size: cover;
+}
+.detailed-view-heading {
+  color: white;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: bold;
+  padding: 24px;
+}
+.detailed-view-card-container {
+  background-color: white;
+  border-bottom-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  margin: 24px;
+}
+
+
