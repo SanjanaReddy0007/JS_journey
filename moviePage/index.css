@@ -1,0 +1,64 @@
+
+.movie-card{
+   background-image:url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+   height:200vh;
+   background-size: cover;
+   padding: 10px;
+}
+
+.mvoie-page{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.heading{
+    color:white;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.button{
+    background-color: white;
+    color:orange;
+    font-size: 14px;
+    font-family: "Roboto";
+    width: 100px;
+    height: 45px;
+    border-radius: 10px;
+    border-width: 0;
+    padding: 10px;
+}
+
+.description{
+    color:white;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.nemo-heading{
+    color:white;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.bottom-card {
+    margin-top: 10px;
+}
+
+.movie-space{
+    width: 180px;
+    border-radius: 12px;
+    height: 50px;
+    padding: 10px;
+    margin: 4px;
+    height: 140px;
+}
+
+
