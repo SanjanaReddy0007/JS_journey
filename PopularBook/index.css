@@ -1,0 +1,137 @@
+.img{
+   width: 50vw;
+   height: 50vh;
+   border-radius: 10px;
+}
+
+.imgg{
+    width: 28vw;
+    height: 44vh;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.bg-container{
+    background-color:white;
+    height: 100vh;
+    padding: 10px;
+    font-family: bree serif;
+}
+
+.heading{
+    color:black;
+    font-family: "roboto";
+    font-weight: 500;
+    font-size: 28px;
+    margin: 4px;
+}
+
+.headingg{
+    color:black;
+    font-family: bree serif;
+    font-weight: 500;
+    font-size: 20px;
+    margin: 4px;
+}
+
+.book{
+    color:black;
+    font-family: bree serif;
+    font-weight: 500;
+    font-size: 28px;
+    margin: 4px;
+}
+
+.head{
+    color:#183b56;
+     font-family: Bree serif;
+    font-weight: 200;
+    font-size: 20px;
+    margin: 1px;
+}
+.description{
+    color:black;
+     font-family: Bree serif;
+    font-weight: 200;
+    font-size: 18px;
+    margin: 1px;
+}
+
+.description{
+    color:black;
+     font-family: Bree serif;
+    font-weight: 200;
+    font-size: 16px;
+    margin: 1px;
+}
+
+
+.small{
+    color:#183b56;
+     font-family: Bree serif;
+    font-weight: 200;
+    font-size: 16px;
+    margin: 1px;
+}
+
+.card
+{
+    background-color: #8cbfe0;
+    border-radius: 10px;
+    width: 50vw;
+    padding-top: 10px;
+    padding-left: 7px;
+}
+
+.button{
+    background-color: rgb(72, 72, 158);
+    color:white;
+    font-size:14px;
+    border-radius: 8px;
+    border-width: 0;
+    height: 30px;
+    width: 100px;
+}
+
+
+.dark-bg{
+  background-color:black;
+    height: 160vh;
+    padding: 10px;
+    font-family: bree serif;
+}
+
+
+.image{
+    height: 80vh;
+    width: 60vw;
+    border-radius: 12px;
+    align-self: center;
+    padding-top: 10px;
+}
+
+.title{
+    color:white;
+    font-family: bree serif;
+    font-weight: 500;
+    font-size: 28px;
+    margin: 4px;
+    text-align: center;
+}
+
+.author{
+    color:grey;
+     font-family: Bree serif;
+    font-weight: 700;
+    font-size: 14px;
+    margin: 1px;
+    text-align: center;
+}
+
+.desc{
+    color:white;
+     font-family: Bree serif;
+    font-weight: 200;
+    font-size: 20px;
+    margin: 1px;
+}
