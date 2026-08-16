@@ -37,6 +37,23 @@
                 <input type="text" id="email" class="form-control"/>
                  <p class="error" id="emailerror"></p>
             </div>
+
+            <div class="mb-3">
+              <label for="status">Working Status</label>
+              <select id="status" class="form-control">
+                 <option value="Active" selected>Active</option>
+                 <option value="InActive">InActive</option>
+              </select>
+            </div>
+
+            <div class="mb-3">
+               <h1 class="head">Gender</h1>
+               <input type="radio" value="Male" id="male" name="gender"/>
+               <label for="male">Male</label>
+               <input type="radio" value="Female" id="Female" name="gender" checked/>
+               <label for="Female">Female</label>
+            </div>
+
             <button class="btn btn-primary" type="submit">
                 Submit
             </button>
