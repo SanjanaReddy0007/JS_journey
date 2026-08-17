@@ -1,0 +1,55 @@
+.bg-container{
+  padding: 10px;
+  background-color: #894bca;
+  height: 50vh;
+  width: 100%;
+  background-size: cover;
+}
+
+.image{
+    width: 260px;
+    height: 230px;
+    margin-bottom: 10px;
+    padding-bottom: 25px;
+}
+
+.heading{
+    color:white;
+    margin-left: 3px;
+    font-size: 24px;
+    font-family: bree serif;
+}
+
+.bg{
+    background-color: white;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.img{
+    width: 80px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.pink-head{
+    color:rgb(192, 68, 88);
+    font-weight: 500;
+    font-size: 28px;
+}
+
+.head{
+    color:black;
+    font-size: 24px;
+    font-family: "Roboto";
+    font-weight: 300;
+}
+
+.para{
+     color:black;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+
