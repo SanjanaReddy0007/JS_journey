@@ -1,0 +1,134 @@
+<html>
+     <head>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+      integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+      integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="index.css"/>
+  </head>
+  <body>
+    <div id="sectionHome">
+        <div class="text-center">
+            <img src="https://d2clawv67efefq.cloudfront.net/ccbp-static-website/software-developer-img.png" class="img"/>
+        </div>
+        <div class="text-center">
+        <h1 class="heading">My Projects</h1>
+        <p class="description">Threre are few statisc projects that I built uisng html , css and js</p>
+       </div>
+        <div class="d-flex flex-row justify-content-center">
+            <div class="my-card" onclick="display('sectionTech')">
+                <img src="https://d2clawv67efefq.cloudfront.net/ccbp-static-website/advanced-technologies-img.png" class="image"/>
+            </div>
+            <div class="my-card d-flex flex-row" onclick="display('sectionDiwali')">
+                <img src="https://d2clawv67efefq.cloudfront.net/ccbp-static-website/diwali-img.png" class="image"/>
+            </div>
+        </div>
+         <div class="d-flex flex-row justify-content-center">
+            <div class="my-card" onclick="display('sectionFood')">
+                <img src="https://d2clawv67efefq.cloudfront.net/ccbp-static-website/food-img.png" class="image"/>
+            </div>
+            <div class="my-card d-flex flex-row" onclick="display('sectionNewsPaper')">
+                <img src="https://d2clawv67efefq.cloudfront.net/ccbp-static-website/news-paper-img.png" class="image"/>
+            </div>
+        </div>
+    </div>
+
+    <div id="sectionTech">
+        <div class="bg-container d-flex flex-column justify-content-end ">
+            <div class="myycard pt-4">
+           <h1 class="head">Advanced Texhnologiess</h1>
+           <p class="para">Machinary & equipment development from the applied science knowledge....</p>
+           <div class="text-center pb-4">
+              <button class="btn btn-dark">Learn More</button>
+              <button class="btn btn-primary" onclick="display('sectionHome')">Back</button>
+           </div>
+            </div>
+        </div>
+    </div>
+
+   <div id="sectionDiwali">
+      <div class="bg">
+        <h1 class="diwali-head">Celebrate festival of Lightsss</h1>
+      </div>
+      <div class="bottom-cardd">
+        <div class="d-flex flex-row justify-content-center mt-4">
+            <div class="white">
+                <img src="https://img.magnific.com/premium-photo/diwali-air-ballon-sky-diwali-concept_1026885-61.jpg" class="diwali-card-image" />
+                <h1 class="d-head">Diwali Air baloon</h1>
+                <p class="d-para">Rs.369</p>
+            </div>
+            <div class="white">
+                <img src="https://img.magnific.com/premium-photo/happy-diwali-background-with-diya-sparkles_837074-33082.jpg" class="diwali-card-image" />
+                <h1 class="d-head">Diwali Lamp</h1>
+                <p class="d-para">Rs.60</p>
+            </div>
+        </div> 
+        <div class="d-flex flex-row justify-content-center mt-4">
+            <div class="white">
+                <img src="https://img.magnific.com/premium-photo/happy-diwali-background-with-diya-sparkles_837074-33082.jpg" class="diwali-card-image" />
+                <h1 class="d-head">Sparkles</h1>
+                <p class="d-para">Rs.150</p>
+            </div>
+            <div class="white">
+                <img src="https://treehut.in/media/_pics/diwali-firecracker-cupcake-decoration-ideas-cupcake-ideas-mini-cake-ideas-07-5442.jpeg" class="diwali-card-image" />
+                <h1 class="d-head">FireCraker</h1>
+                <p class="d-para">Rs.560</p>
+            </div>
+        </div> 
+        <div class="text-center mt-4">
+            <button class="btn btn-primary" onclick="display('sectionHome')">Back</button>
+        </div>
+      </div>
+   </div>
+
+   <div id="sectionFood">
+      <div class="food d-flex flex-column justify-content-end">
+         <div class="bottom-card">
+            <h1 class="food-head mt-2">Food Meals</h1>
+            <p class="foodd mt-2">Discover the best food over the 10,000 Resturantsss</p>
+            <div class="text-center">
+                <button class="btn btn-dark">Book now</button>
+                <button class="btn btn-primary" onclick="display('sectionHome')">Back</button>
+            </div>
+         </div>
+      </div>
+   </div>
+
+   <div id="sectionNewsPaper">
+     <div class="news-bg d-flex flex-column justify-content-end">
+            <div class="news-card">
+              <p class="title">News Of The Day</p>
+              <h1 class="info">All education Institute from Assam is to reopen from Aug 22</h1>
+              <p class="details">iB Cricket and Viu together have announced the World's first virtual reality cricket league featuring 12 international cricketers,who will be competing against each other for the iB Cricket Super Over League title in Mumbai. Iconic cricketers like Virendra Sehwag,Suresh Raina,Brendon McCullum will be competing in the league.</p>
+              <div class="text-center">
+                <button class="btn btn-dark">Read more</button>
+                <button class="btn btn-primary" onclick="display('sectionHome')">Back</button>
+              </div>
+            </div>
+     </div>
+   </div>
+ 
+
+  <script type="text/javascript" src="https://new-assets.ccbp.in/frontend/content/static-ccbp-ui-kit/static-ccbp-ui-kit.js"></script>
+</body>
+</html>
+
+
+
