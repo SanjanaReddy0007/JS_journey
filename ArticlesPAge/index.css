@@ -1,0 +1,68 @@
+.bg{
+    background-color: #225db0;
+    height: 100vh;
+    background-size: cover;
+    padding: 10px;
+}
+
+.heading{
+    color:white;
+    font-family: bree serif;
+    font-size: 26px;
+    font-weight: 400;
+}
+
+.description{
+     color:white;
+    font-family: bree serif;
+    font-size: 17px;
+    font-weight: 200;
+}
+
+.img{
+    width: 60px;
+    padding: 4px;
+}
+
+.descriptionn{
+     color:black;
+    font-family: bree serif;
+    font-size: 17px;
+    font-weight: 200;
+    padding-top: 8px;
+}
+
+.card{
+    background-color: white;
+    border-radius: 12px;
+    padding: 10px;
+    margin: 10px;
+    width: 130px;
+    text-align: center;
+    align-items: center;
+}
+
+.tech-bg{
+    background-color: #225db0;
+    height:220vh;
+    background-size: cover;
+    padding: 10px;
+}
+
+.tech-head{
+    color:white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.my-list{
+    color:white;
+    font-size: 16px;
+   font-family: "Roboto";
+   font-weight: 200;
+   padding-top: 4px;
+   padding-left: 4px;
+}
+
+
