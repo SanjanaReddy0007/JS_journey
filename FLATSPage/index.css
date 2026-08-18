@@ -1,0 +1,134 @@
+.head{
+    color: black;
+    font-size: 24px;
+    font-family: "Roboto";
+    padding-left: 3px;
+}
+
+.bg{
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 120vh;
+    padding: 10px;
+}
+
+.card{
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 4px;
+}
+
+.heading{
+    color:orange;
+    font-size: 24px;
+    font-family: "Roboto";
+    font-weight: 500;
+    padding-top: 2px;
+}
+
+.para{
+    color:#7b8794;
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: 300;
+    padding-top: 6px;
+}
+
+.button{
+    color:white;
+    width: 100px;
+    height: 45px;
+    border-radius: 8px;
+    border-width: 0;
+    padding: 4px;
+    background-color: orange;
+    align-self: center;
+}
+
+.bg-container{
+    background-color: #222222;
+    height: 160vh;
+    padding: 10px;
+}
+
+.cardd{
+    background-color: white;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.img{
+    height: 30vh;
+    width: 20vw;
+}
+
+.bhk{
+    color:black;
+    font-family: bree serif;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.description{
+    color:#7b8794;
+    font-family: bree serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.top-card{
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d1-img.png");
+    height: 30vh;
+    background-size: cover;
+    padding: 10px;
+}
+
+.bottom-card{
+    background-color: black;
+    margin: 4px;
+    height: 100vh;
+}
+
+.bottom-head{
+    color:orange;
+    font-family: bree serif;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.bottom-para{
+     color:white;
+    font-family: bree serif;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.location{
+    height: 30px;
+    margin-left: 4px;
+}
+
+.detail{
+    color:white;
+    font-family: bree serif;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+
+.top3-card{
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d3-img.png");
+    height: 80vh;
+    background-size: cover;
+    padding: 10px;
+}
+
+.top2-card{
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d2-img.png");
+    height: 100vh;
+    background-size: cover;
+    padding: 10px;
+}
+
