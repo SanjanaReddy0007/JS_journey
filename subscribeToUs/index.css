@@ -1,0 +1,22 @@
+.img{
+    width: 75vw;
+}
+
+.bottom{
+    background-color: white;
+    height: 60vh;
+    padding: 10px;
+    background-size: cover;
+}
+
+.label{
+    color:black;
+    font-size: 10px;
+}
+
+.error{
+    color: red;
+    font-size: 12px;
+}
+
+
