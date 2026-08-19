@@ -1,0 +1,57 @@
+<html>
+    <head>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+      integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+      integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="index.css"/>
+  </head>
+  <body>
+     <div class="bg-container">
+        <h1 class="heading text-center">Select The Answer</h1>
+        <form class="card-container pt-3 pl-4" id="questionForm">
+            <h1 class="Question">What is the Capital Of India?</h1>
+            <div class="mb-3 mt-3">
+                <input type="radio" value="Hyderabad" name="city" id="HyderabadCity"/>
+                <label for="HyderabadCity" class="ml-2 class-label">Hyderabad</label>
+            </div>
+            <div class="mb-3 mt-3">
+                <input type="radio" value="Chennai" name="city" id="chennaiCity"/>
+                <label for="chennaiCity" class="ml-2 class-label">Chennai</label>
+            </div>
+            <div class="mb-3 mt-3">
+                <input type="radio" value="Delhi" name="city" id="DelhiCity"/>
+                <label for="DelhiCity" class="ml-2 class-label">Delhi</label>
+            </div>
+            <div class="mb-3 mt-3">
+                <input type="radio" value="Mumbai" name="city" id="MumbaiCity"/>
+                <label for="MumbaiCity" class="ml-2 class-label">Mumbai</label>
+            </div>
+            <div class="pt-2 pb-3 ml-3">
+                <button class="btn btn-primary" id="submitButton" type="submit">Submit</button>
+                <p id="error" class="error mt-2 mb-3"></p>
+            </div>
+        </form>
+     </div>
+
+    <script src="index.js"></script>
+  </body>
+</html>
+

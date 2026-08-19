@@ -1,0 +1,43 @@
+.bg-container{
+  background-color: #FF4C6D;
+  height: 100vh;
+  padding: 10px;
+}
+
+.card-container{
+     background-color: white;
+    border-radius: 15px;
+    border-width: 0;
+    border-style: solid;
+    margin-top: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading{
+    color: white;
+    font-size: 24px;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+.Question{
+   color: black;
+    font-size: 24px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.class-label{
+     color: black;
+    font-family: "Roboto";
+    font-size: 17px;
+}
+
+.error{
+    font-size: 18px;
+    font-family: "Sans-Serif";
+    font-weight: 900;
+}
+
