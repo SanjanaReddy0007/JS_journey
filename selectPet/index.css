@@ -1,0 +1,28 @@
+.bg-container{
+    background-color: antiquewhite;
+    height: 100vh;
+    background-size: cover;
+    padding: 10px;
+}
+
+.heading{
+    color: black;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+.selectt{
+    background-color: white;
+    width: 80%;
+    height: 5vh;
+    border-radius: 6px;
+}
+
+img{
+    width: 350px;
+    height: 350px;
+    margin-top: 10px;
+    border-radius: 14px;
+}
+
