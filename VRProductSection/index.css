@@ -1,0 +1,39 @@
+.bg{
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+    padding: 10px;
+    height: 100vh;
+    width: 100%;
+}
+
+
+.bg-2{
+     background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+    padding: 10px;
+    width: 100%;
+    height: 100vh;
+}
+
+.heading{
+    color:black;
+    font-display: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.head{
+    color:white;
+    font-size: 22px;
+    font-family: "Roboto";
+    padding-top: 4px;
+}
+
+.desc{
+    color:white;
+    font-size: 16px;
+    font-family: "Roboto";
+    padding-top: 4px;
+}
+
+
