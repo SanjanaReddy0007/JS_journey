@@ -1,0 +1,21 @@
+.heading{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.vr-bg{
+    background-color: white;
+}
+
+.card{
+    border-radius: 10px;
+    text-align: center;
+    margin: 4px;
+}
+
+.img{
+    width: 70px;
+    height: 45px;
+}
+
+
