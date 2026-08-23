@@ -1,0 +1,22 @@
+.heading{
+    color: black;
+    font-family: bree serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.head{
+    color:black;
+    font-size: 20px;
+}
+
+.card{
+    text-align: center;
+}
+
+.img{
+    height: 180px;
+    width: 150px;
+}
+
+
