@@ -1,0 +1,40 @@
+.link{
+    color:#1754a1;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.heading{
+    color:black;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: bree serif;
+}
+
+
+.card{
+    width: 380px;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.img{
+    width: 380px;
+    border-radius: 8px;
+}
+
+.description{
+    color:#959ead;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.card-heading{
+     color:black;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+}
+
+
