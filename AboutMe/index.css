@@ -1,0 +1,52 @@
+.bg-container{
+   background-color: #323f4b;;
+   background-size: cover;
+   height: 100vh;
+   padding: 10px;
+}
+
+.heading{
+    color:#cced00;
+    font-family: bree serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.head{
+   color:white;
+   font-size: 28px;
+   font-weight: bold;
+}
+
+.para{
+    color:#9aa5b1;
+    font-family: bree serif;
+    font-size: 18px;
+    font-weight: 600;   
+}
+
+.bottom-bg{
+    background-color: #1f2933;;
+    padding: 10px;
+    padding-top: 18px;
+    align-items: center;
+    
+}
+
+.card{
+    background-color: #323f4b;
+    border-radius: 12px;
+    padding: 10px;
+    margin: 1px;
+}
+
+.skill-name{
+    color: white;
+    font-size: 17px;
+    
+}
+
+.img{
+    width: 60px;
+}
+
