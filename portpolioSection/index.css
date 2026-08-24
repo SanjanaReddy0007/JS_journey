@@ -1,0 +1,47 @@
+#nav1 {
+    color: white;
+    font-size: 17px;
+}
+
+#nav2 {
+    color: white;
+    font-size: 17px;
+}
+
+#nav3 {
+    color: white;
+    font-size: 17px;
+}
+
+#nav4 {
+    color: white;
+    font-size: 17px;
+}
+
+#nav5 {
+    color: white;
+    font-size: 17px;
+}
+
+.bg-container{
+    background-color: #191a1d;
+    height: 100vh;
+    background-size: cover;
+}
+
+.img{
+    height: 350px;
+    width: 320px;
+    border-radius: 10px;
+}
+
+.head{
+    color: white;
+}
+
+button{
+    width: 120px;
+    height: 45px;
+    border-radius: 10px;
+    text-align: center;
+}
