@@ -1,0 +1,50 @@
+.bg{
+    background-color: #3e4c59;
+    height: 120vh;
+    background-size: cover;
+    padding: 10px;
+}
+
+.heading{
+    color: #cced00;
+    font-family: bree serif;
+    font-weight: 500;
+    font-size: 26px;
+}
+
+.desc{
+    color: white;
+    font-family: bree serif;
+    font-weight: 700;
+    font-size: 29px;
+}
+
+.card{
+    background-color: #323f4b;
+    padding: 10px;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+.about{
+     color: #9aa5b1;
+    font-family: "roboto";
+    font-weight: 200;
+    font-size: 16px;
+}
+
+.aboutt{
+     color: #9aa5b1;
+    font-family: "roboto";
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.head{
+     color: white;
+    font-family: "roboto";
+    font-weight: 200;
+    font-size: 20px;
+}
+
+
