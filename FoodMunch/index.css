@@ -1,0 +1,224 @@
+.food-munch-logo{
+  width: 80px;
+  height:65px;
+}
+
+.navItem4{
+    color:black;
+    font-size: 22px;
+    font-family: "Roboto";
+}
+
+.navItem2{
+    color:black;
+    font-size: 22px;
+    font-family: "Roboto";
+}
+
+.navItem3{
+    color:black;
+    font-size: 22px;
+    font-family: "Roboto";
+}
+
+.navItem1{
+    color:black;
+    font-size: 22px;
+    font-family: "Roboto";
+}
+
+.heading{
+    font-size: 28px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: orange;
+}
+
+.description{
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 400;
+    color: purple;
+}
+.whitee{
+   background-color: white;
+    border-radius: 4px;
+    width: 60vw;
+    text-align: center;
+    align-self: center;
+}
+
+.button{
+     background-image: linear-gradient(#d0b200, #a58d00);
+     height:60px;
+     color: white;
+     font-size: 18px;
+     border-radius: 4px;
+     border-width: 0px;
+     margin-right: 2px;
+     width: 130px;
+}
+
+.order{
+    border-color: #a58d00;
+    border-radius: 5px;
+    border-width: 2px;
+    width: 130px;
+    color: white;
+    height: 55px;border-style: solid;
+    background-color: transparent;
+}
+
+.banner {
+    background-image: url("https://images.pexels.com/photos/1092730/pexels-photo-1092730.jpeg?cs=srgb&dl=pexels-janetrangdoan-1092730.jpg&fm=jpg");
+    height: 100vh;
+    background-size: cover;
+    padding: 10px;
+}
+
+.card{
+    background-color: white;
+    border-radius: 6px;
+    border-color: #e5eaf4;
+    border-style: solid;
+    text-align: center;
+}
+
+.background{
+    background-color: #f9fbfe;
+}
+
+.why{
+     color:black;
+    font-size: 26px;
+    font-family: "Roboto";
+}
+
+.para{
+     color:black;
+    font-size: 18px;
+    font-family: "Roboto";
+}
+
+.food{
+    color:black;
+    font-size: 21px;
+    font-family: "Roboto";
+}
+
+.food-desc{
+    color:black;
+    font-size: 17px;
+    font-family: "Roboto";
+}
+
+.img{
+    width: 30px;
+    height: 30px;
+}
+
+.menu-card{
+    border-radius: 16px;
+}
+
+.menu-item-link{
+    color:yellow;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.menu-title{
+    color: black;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: "Roboto";
+    padding-top: 4px;
+}
+
+.imgg{
+    border-radius: 10px;
+}
+
+.explorePage{
+    background-color: white;
+}
+
+.payment{
+    background-color: white;
+}
+
+.delivery-and-payment-section-heading{
+    color: black;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding-top: 4px;
+}
+
+.delivery-and-payment-section-description{
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Roboto";
+    padding-top: 4px;
+}
+
+.custom-button{
+    background-image: linear-gradient(#d0b200, #a58d00);
+     height:60px;
+     color: white;
+     font-size: 18px;
+     border-radius: 4px;
+     border-width: 0px;
+     margin-right: 2px;
+     width: 160px;
+}
+
+.thankingSection{
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.thank-head{
+   color: black;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Roboto";
+    padding-top: 4px;   
+}
+
+.thank-desc{
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Roboto";
+    padding-top: 4px;  
+}
+
+.followUs{
+    background-color: white;
+}
+
+.icon{
+    width: 120px;
+    height: 45px;
+}
+
+.footer-section {
+    background-color: black;
+}
+
+.footer-section-mail-id{
+    color: white;
+    font-size: 20px;
+}
+
+.footer-section-address{
+    color: white;
+    font-size: 18px;
+}
+
+.food-munch-logo{
+    width: 70px;
+    height: 45px;
+}
+
