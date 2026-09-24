@@ -1,0 +1,67 @@
+
+.bg{
+    background-color: aliceblue;
+    height: 120vh;
+    padding: 20px;
+    background-size: cover;
+}
+
+.head{
+    color: black;
+    font-size: 24px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.headd{
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.colors{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    text-align: center;
+    height: 100px;
+    max-width: 260px;
+    border-radius: 5px;
+    width: 400px;
+    margin: 10px;
+}
+
+.red{
+    background-color: red;
+}
+.amber{
+    background-color: #fbbf24;
+}
+
+.orange{
+    background-color: #fb923c;
+}
+
+.green{
+    background-color: #34d399;
+}
+
+.black{
+    background-color: black;
+}
+
+.skyblue{
+    background-color: skyblue;
+}
+.pink{
+    background-color: pink;
+}
+
+.blue{
+    background-color: blue;
+}
+.para{
+    color: #ffffff;
+    font-size: 14px;
+}
